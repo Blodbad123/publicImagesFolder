@@ -1,0 +1,3 @@
+# publicImagesFolder
+
+Some readme stuff 
